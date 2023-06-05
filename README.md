@@ -1,0 +1,1 @@
+# FUD directory discovery script
